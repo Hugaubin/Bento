@@ -1271,4 +1271,4 @@ message.channel.send({embed: {
 });
 
 // Bot's token (Synced from settings.json)
-client.login('NTQwMTcyNzcxNTEwOTc2NTEy.D0xcNQ.5o_HWEcdFYWyLtduXb33hi62m7g')
+client.login(process.env.TOKEN)
