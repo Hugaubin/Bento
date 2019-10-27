@@ -29,7 +29,7 @@ ${client.channels.size} channels and ${client.users.size} users cached!
 I am logged in and ready to roll!
 LET'S GO!
 ------------------------------------------------------
-----------Bot created by Michael Corleone#8565-----------
+----------Bot created by Hugaubin#7533-----------
 ------------------------------------------------------
 -----------------Bot's commands logs------------------`
 
@@ -1270,5 +1270,5 @@ message.channel.send({embed: {
     }
 });
 
-// Bot's token (Synced from settings.json)
+// Bot's  (Synced from settings.json)
 client.login(process.env.TOKEN)
